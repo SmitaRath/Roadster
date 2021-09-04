@@ -1,5 +1,14 @@
 # Roadster
 
+An application which allows users to plan road trips. It provides features including adding source, destination and stops on google maps.
+It enables trip members to chat, edit journey, upload pictures of trip, and sign-up using Facebook and google account. They can invite family or friends to the journey and also share itinerary details
+
+## Group Members
+### Smita Rath
+### Abhinav Garg
+### Soanli Chavan
+### Neil Naidu
+
 ## Section 1 - Some screenshots:
 
 ##### Creating a journey
