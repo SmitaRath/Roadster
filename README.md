@@ -6,7 +6,7 @@ It enables trip members to chat, edit journey, upload pictures of trip, and sign
 ## Group Members
 ### Smita Rath
 ### Abhinav Garg
-### Soanli Chavan
+### Sonali Chavan
 ### Neil Naidu
 
 ## Section 1 - Some screenshots:
